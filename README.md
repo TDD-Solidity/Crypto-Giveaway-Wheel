@@ -7,7 +7,7 @@ An awesome tool for communites to giveaway crypto!
 
 ## Flow Diagram
 
-<img src="./Crypto-Giveaway-Wheel-Flow-Diagram.png"/>
+<img src="./Crypto-Giveaway-Wheel-Flow-Diagram-v1.png"/>
 
 <br/>
 
